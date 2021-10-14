@@ -1,3 +1,11 @@
+/* 
+Final project: Card Game
+Programmer: Raman Mohammed
+Date: 13/10/2021
+*/
+
+
+
 #include <iostream>
 #include <string>
 #include <ctime> // used as a timer for card shuffling
