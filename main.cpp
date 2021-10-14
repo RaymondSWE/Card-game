@@ -129,7 +129,7 @@ class Deck {
                 m_deck[k].print();
             };
         };
-        // prints the cards of deck shuffled if called upon
+        // shufffles the deck
         void shuffle() {
             for(int n = 0; n < 52; n++) {
                 int m = rand() % 52;
